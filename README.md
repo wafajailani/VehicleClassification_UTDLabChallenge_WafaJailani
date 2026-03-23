@@ -1,6 +1,6 @@
 **UTD AI Safety Lab Coding Challenge Submission**
 
-Hello! This is my submission for the Coding Challenge at the UTD AI Safety Lab Summer 2026 Research. My source code is in the vehicle_classifier.py file. I trained the Convolution Neural Network (CNN) by testing various values for epochs, the learning rate (lr), amount of images used (batch_size), and repetitions. The loss is 0.018 with an accuracy of 75% The model has 10 epochs and it took ~10 minutes to train to a loss of 0.018.
+Hello! This is my submission for the Coding Challenge at the UTD AI Safety Lab Summer 2026 Research. My source code is in the vehicle_classifier.py file. I trained the Convolution Neural Network (CNN) by testing various values for epochs, the learning rate (lr), amount of images used (batch_size), and repetitions. The loss is 0.018 with an accuracy of 75%. The model has 10 epochs and it took ~10 minutes to train to a loss of 0.018.
 
 **Details**
 + IDE: PyCharm by Intellij
@@ -18,5 +18,5 @@ Hello! This is my submission for the Coding Challenge at the UTD AI Safety Lab S
 + Loss V. Epoch Curve: Loss V Epoch Curve - Vehicle Classification - UTD AI Safety Summer 2026 Research Lab Coding Challenge Submission(1).pdf
 
 
-Code Written By: Wafa Jailani
+Code Written By: Wafa Jailani</br>
 Email: wafajailani407@gmail.com
