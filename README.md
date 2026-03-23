@@ -9,7 +9,7 @@ Hello! This is my submission for the Coding Challenge at the UTD AI Safety Lab S
 + Average time to train to < 0.5 loss: 10 minutes (fastest time on Adam optimizer)
 + How I trained the model:
   + Run the model 4 times, learning from the previous set
-  + The loss should decrease signficiantly. I saw the loss was usually near 1.491 on the first training run and decreased to 0.018 after training finished.
+  + The loss should decrease signficiantly. I saw the loss was usually near 1.491 on the first training run and decreased to 0.018 on the 4th rep after training finished.
   + Plotted the highest energy (batch 150 ) loss. 
 
 **TL;DR**
