@@ -1,5 +1,3 @@
-**UTD AI Safety Lab Coding Challenge Submission**
-
 # Vehicle Classification CNN
 UTD AI Safety Lab Summer 2026 Coding Challenge | Wafa Jailani
 
